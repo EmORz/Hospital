@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.deps.json
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+C:\Users\User\source\repos\Hospital_Project\Hospital\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb

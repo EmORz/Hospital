@@ -23,6 +23,7 @@ namespace P01_HospitalDatabase.Data
         public DbSet<Patient> Patients { get; set; }
         public DbSet<PatientMedicament> PatientMedicaments { get; set; }
         public DbSet<Visitation> Visitations { get; set; }
+        public DbSet<Doctor> Doctors { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -31,6 +32,7 @@ namespace P01_HospitalDatabase.Data
             modelBuilder.ApplyConfiguration(new PatientConfig());
             modelBuilder.ApplyConfiguration(new VisitationConfig());
             modelBuilder.ApplyConfiguration(new PatientMedicamentConfig());
+            modelBuilder.ApplyConfiguration(new DoctorConfig());
         }
     }
 }

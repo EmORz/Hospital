@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace P01_HospitalDatabase.Data.Models
 {
@@ -8,7 +9,7 @@ namespace P01_HospitalDatabase.Data.Models
     //	Date
     //	Comments(up to 250 characters, unicode)
     //	Patient
-
+    
         public int VisitationId { get; set; }
 
         public DateTime Date { get; set; }
@@ -16,8 +17,12 @@ namespace P01_HospitalDatabase.Data.Models
         public string Comments { get; set; }
 
         public int PatientId { get; set; }
-
         public Patient Patient { get; set; }
+
+        public int? DoctorId { get; set; }
+        public Doctor Doctor { get; set; }
+
+
 
 
     }

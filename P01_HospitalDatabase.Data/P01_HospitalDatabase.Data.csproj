@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Compile Remove="Migrations\20190302220130_Initial.cs" />
+    <Compile Remove="Migrations\20190304082721_AddingDoctors.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -14,6 +15,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\P01_HospitalDatabase.Data.Models\P01_HospitalDatabase.Data.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.EntityFrameworkCore">
+      <HintPath>..\..\..\..\..\.nuget\packages\microsoft.entityframeworkcore\2.2.0\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
